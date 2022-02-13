@@ -1,6 +1,6 @@
-====== My name is bruno luiz ======
-=      currently a salaried       =
-=   but programming is my hobby   =
-=   hope we can help each other   =
-
-
+<body>
+=======My name is bruno luiz=======</br>
+=======currently a salaried========</br>
+====but programming is my hobby====</br>
+====hope we can help each other====
+</body>
